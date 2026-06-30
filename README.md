@@ -35,3 +35,7 @@ python src/rank.py --candidates data/candidates.jsonl --jd data/job_description.
 ```
 
 Once completed, the exact Top 100 candidates will be saved in `TryHards.csv` at the root of the project.
+
+
+##Sandbox link:
+<a href='https://colab.research.google.com/drive/1L7wmBvWu05oZSYmo8pMI7T1_ii6BqE94?usp=sharing'>Sample code running in a sandbox</a>
